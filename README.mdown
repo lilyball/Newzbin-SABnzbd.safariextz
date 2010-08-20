@@ -10,6 +10,12 @@ Installation
 ------------
 Head over to the [downloads section][downloads] and grab the latest version (be sure to grab the official download, not a tag). Then just double-click the downloaded file and Safari will prompt you to install. Once installed, you'll need to reload any existing tabs in order to use the extension on those tabs.
 
+Setup
+-----
+Open up your Extensions Preferences and select Newzbin+SABnzbd. Make sure the hostname and port are set correctly.
+Then open up your SABnzbd+ Config->General page and copy the API Key from the first section. Paste that key into
+the API Key text field in the extension preferences.
+
 Usage
 -----
 Right-click any report URL on newzbin.com and select "Add NZB to SABnzbd+".
