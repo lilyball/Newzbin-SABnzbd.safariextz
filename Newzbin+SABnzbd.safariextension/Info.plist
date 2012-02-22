@@ -54,6 +54,7 @@
 			<array>
 				<string>*.newzbin.com</string>
 				<string>*.newzbin2.es</string>
+				<string>*.newzxxx.com</string>
 			</array>
 			<key>Include Secure Pages</key>
 			<true/>
