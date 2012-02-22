@@ -1,7 +1,7 @@
 Newzbin + SABnzbd+
 =================
 
-Newzbin + SABnzbd+ is a Safari extension that adds better integration between [Newzbin](http://newzbin.com/)
+Newzbin + SABnzbd+ is a Safari extension that adds better integration between [Newzbin](http://newzbin2.es/)
 and [SABnzbd+](http://sabnzbd.org/). It adds a contextual menu item to every Newzbin report URL that will add
 that report directly to SABnzbd+ without any copying & pasting. You can see it works by watching the
 [Growl](http://www.growl.info) notifications that SABnzbd+ emits.
