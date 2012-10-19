@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>Kevin Ballard</string>
 	<key>Builder Version</key>
-	<string>7535.18.5</string>
+	<string>8536.26.14</string>
 	<key>CFBundleDisplayName</key>
 	<string>Newzbin+SABnzbd</string>
 	<key>CFBundleIdentifier</key>
@@ -13,9 +13,9 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.1</string>
+	<string>1.2</string>
 	<key>CFBundleVersion</key>
-	<string>2</string>
+	<string>3</string>
 	<key>Chrome</key>
 	<dict>
 		<key>Context Menu Items</key>
@@ -55,6 +55,7 @@
 				<string>*.newzbin.com</string>
 				<string>*.newzbin2.es</string>
 				<string>*.newzxxx.com</string>
+				<string>*.newzxxx2.ch</string>
 			</array>
 			<key>Include Secure Pages</key>
 			<true/>

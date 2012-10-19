@@ -23,7 +23,7 @@ function validateHandler(event) {
 }
 
 function extractNewzbinPostID(url) {
-    var re = /^https?:\/\/(?:www\.)?newz(?:bin(?:2\.es|\.com)|xxx\.com)\/browse\/post\/(\d+)\//
+    var re = /^https?:\/\/(?:www\.)?newz(?:bin(?:2\.es|\.com)|xxx(?:2\.ch|\.com))\/browse\/post\/(\d+)\//
     var match = re.exec(url)
     return match && match[1]
 }

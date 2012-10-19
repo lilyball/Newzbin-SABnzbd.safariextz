@@ -7,14 +7,14 @@
 		<dict>
 			<key>CFBundleIdentifier</key>
 			<string>com.tildesoft.safari.newzbin-sabnzbd</string>
+			<key>CFBundleShortVersionString</key>
+			<string>1.2</string>
+			<key>CFBundleVersion</key>
+			<string>3</string>
 			<key>Developer Identifier</key>
 			<string>49Q455H8H7</string>
-			<key>CFBundleShortVersionString</key>
-			<string>1.1</string>
-			<key>CFBundleVersion</key>
-			<string>2</string>
 			<key>URL</key>
-			<string>http://github.com/downloads/kballard/Newzbin-SABnzbd.safariextz/Newzbin+SABnzbd_1.1.safariextz</string>
+			<string>http://github.com/downloads/kballard/Newzbin-SABnzbd.safariextz/Newzbin+SABnzbd_1.2.safariextz</string>
 		</dict>
 	</array>
 </dict>
